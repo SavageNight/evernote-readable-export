@@ -1,0 +1,7 @@
+interface:
+  display_name: "Evernote Readable Export"
+  short_description: "Export notes from logged-in Evernote pages"
+  default_prompt: "Use $evernote-readable-export to export the current logged-in Evernote notebook as readable Markdown."
+
+policy:
+  allow_implicit_invocation: true
